@@ -1,0 +1,8 @@
+{
+  "name": "cool-music",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "59af5a2e"
+}
